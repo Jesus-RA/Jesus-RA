@@ -1,7 +1,7 @@
 ### Hi there 👋 I am [Jesús Ramírez Alejandro](https://www.jesusra.com)
 
 __Let me introduce myself! I'm a Computer Science Engineering student and self-taught web developer.  
-I'm passionate to learn every day new things and get better my knowledge.  
+I'm passionate to learn every day new things and step up my knowledge.  
 I think being better, I can contribute to the developers community and help to improve my environment.__
 
 
